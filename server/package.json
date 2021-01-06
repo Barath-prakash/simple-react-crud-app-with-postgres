@@ -27,7 +27,7 @@
     "eslint-plugin-prettier": "*"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "body-parser": "^1.18.1",
     "bookshelf": "^0.10.4",
     "chalk": "^4.0.0",

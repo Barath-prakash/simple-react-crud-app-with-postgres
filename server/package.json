@@ -47,7 +47,7 @@
     "nodemailer": "^4.1.0",
     "pg": "^8.2.1",
     "simple-encryptor": "^3.0.0",
-    "validator": "^8.2.0"
+    "validator": "^13.7.0"
   },
   "babel": {
     "presets": [
